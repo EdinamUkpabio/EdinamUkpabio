@@ -7,7 +7,12 @@
 
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
 
-- 💬 Ask me about **If you're curious about any of the following or have questions related to my experience, feel free to ask: Software Development: Whether it's coding practices, software architecture, or best practices, I'm here to help. Career Growth: Interested in my journey from a self-taught developer to a Senior Software Developer? Ask me about career development and learning strategies. Tech Stacks: Want to discuss specific technologies I've worked with or recommend tools for your project? Let's dive into tech stacks. Collaborative Work: Interested in effective collaboration, agile methodologies, or team dynamics? I can share insights from my experience. Problem Solving: Whether it's troubleshooting code issues or finding elegant solutions to complex problems, I'm up for a discussion. Feel free to strike up a conversation on any of these topics or anything else you'd like to know. I'm always open to sharing knowledge and engaging in meaningful discussions with fellow developers and enthusiasts. Let's learn from each other! 🤓🚀**
+- 💬 Ask me about If you're curious about any of the following or have questions related to my experience, feel free to ask:
+- **Software Development:** Whether it's coding practices, software architecture, or best practices, I'm here to help. Career Growth: Interested in my journey from a self-taught developer to a Senior Software Developer? Ask me about career development and learning strategies.
+- **Tech Stacks:** Want to discuss specific technologies I've worked with or recommend tools for your project? Let's dive into tech stacks.
+- **Collaborative Work:** Interested in effective collaboration, agile methodologies, or team dynamics? I can share insights from my experience.
+- **Problem Solving:** Whether it's troubleshooting code issues or finding elegant solutions to complex problems, I'm up for a discussion.
+- Feel free to strike up a conversation on any of these topics or anything else you'd like to know. I'm always open to sharing knowledge and engaging in meaningful discussions with fellow developers and enthusiasts. Let's learn from each other! 🤓🚀
 
 - 📫 How to reach me **edinamukpabio@gmail.com**
 
