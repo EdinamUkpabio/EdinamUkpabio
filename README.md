@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
 
-![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/EdinamUkpabio?style=social)
+![Total GitHub stars](https://img.shields.io/github/stars/edinamukpabio?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/EdinamUkpabio?style=social)
 
 
@@ -41,6 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edinamukpabio&show_icons=true&locale=en" alt="edinamukpabio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edinamukpabio&show_icons=true&locale=en&hide=prs,contribs&include_all_commits=true" alt="edinamukpabio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinamukpabio&" alt="edinamukpabio" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinamukpabio&hide_border=true" alt="edinamukpabio" />
