@@ -1,7 +1,7 @@
 ![logo](https://github.com/EdinamUkpabio/EdinamUkpabio/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Edinam Ukpabio</h1>
-<h3 align="center">I am Senior Software Developer from United Kingdom</h3>
+<h3 align="center">I am Senior Software Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
