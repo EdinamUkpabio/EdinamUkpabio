@@ -11,6 +11,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/EdinamUkpabio?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EdinamUkpabio/EdinamUkpabio)
 ![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/EdinamUkpabio)
+![GitHub code size](https://img.shields.io/github/languages/code-size/EdinamUkpabio/EdinamUkpabio)
 
 
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
