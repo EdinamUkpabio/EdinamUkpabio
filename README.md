@@ -7,7 +7,7 @@
 
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
 
-- 💬 Ask me about If you're curious about any of the following or have questions related to my experience, feel free to ask:
+- 💬 Please feel free to ask me questions about my capabilities and experience or to discuss any project:
 - **Software Development:** Whether it's coding practices, software architecture, or best practices, I'm here to help. Career Growth: Interested in my journey from a self-taught developer to a Senior Software Developer? Ask me about career development and learning strategies.
 - **Tech Stacks:** Want to discuss specific technologies I've worked with or recommend tools for your project? Let's dive into tech stacks.
 - **Collaborative Work:** Interested in effective collaboration, agile methodologies, or team dynamics? I can share insights from my experience.
