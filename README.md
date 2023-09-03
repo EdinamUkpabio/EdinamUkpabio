@@ -8,8 +8,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/EdinamUkpabio?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/EdinamUkpabio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/EdinamUkpabio?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/EdinamUkpabio)
+
+
 
 
 
