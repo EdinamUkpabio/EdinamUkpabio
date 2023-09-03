@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
+
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/yourrepository?style=social)
+
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
 
 - 💬 Please feel free to ask me questions about my capabilities and experience or to discuss any project:
