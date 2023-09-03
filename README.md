@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
 
-![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/https://github.com/EdinamUkpabio/EdinamUkpabio.git?style=social)
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/EdinamUkpabio.git?style=social)
 
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
 
