@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edinamukpabio&show_icons=true&locale=en" alt="edinamukpabio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinamukpabio&" alt="edinamukpabio" /></p>
