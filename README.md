@@ -1,7 +1,7 @@
 ![logo](https://github.com/EdinamUkpabio/EdinamUkpabio/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Edinam Ukpabio</h1>
-<h3 align="center">I am Senior Software Developer from Nigeria</h3>
+<h3 align="center">I am Software Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
@@ -16,7 +16,7 @@
 - 🌱 I’m Professional learner **I'm always excited to expand my skill set and explore new technologies.**
 
 - 💬 Please feel free to ask me questions about my capabilities and experience or to discuss any project:
-- **Software Development:** Whether it's coding practices, software architecture, or best practices, I'm here to help. Career Growth: Interested in my journey from a self-taught developer to a Senior Software Developer? Ask me about career development and learning strategies.
+- **Software Development:** Whether it's coding practices, software architecture, or best practices, I'm here to help. Career Growth: Interested in my journey from a self-taught developer to a Software Developer? Ask me about career development and learning strategies.
 - **Tech Stacks:** Want to discuss specific technologies I've worked with or recommend tools for your project? Let's dive into tech stacks.
 - **Collaborative Work:** Interested in effective collaboration, agile methodologies, or team dynamics? I can share insights from my experience.
 - **Problem Solving:** Whether it's troubleshooting code issues or finding elegant solutions to complex problems, I'm up for a discussion.
