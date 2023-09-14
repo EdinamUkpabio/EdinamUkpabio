@@ -1,13 +1,13 @@
-![logo](https://github.com/EdinamUkpabio/EdinamUkpabio/blob/main/GithubBanner.png)
+![logo](https://github.com/edinamuk-pabio/edinamuk-pabio/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Edinam Ukpabio</h1>
 <h3 align="center">I am a Software Developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamuk-pabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamuk-pabio" /> </p>
 
 
-![Total GitHub stars](https://img.shields.io/github/stars/edinamukpabio?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/EdinamUkpabio?style=social)
+![Total GitHub stars](https://img.shields.io/github/stars/edinamuk-pabio?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/edinamuk-pabio/edinamuk-pabio?style=social)
 
 
 
@@ -22,7 +22,7 @@
 - **Problem Solving:** Whether it's troubleshooting code issues or finding elegant solutions to complex problems, I'm up for a discussion.
 - Feel free to strike up a conversation on any of these topics or anything else you'd like to know. I'm always open to sharing knowledge and engaging in meaningful discussions with fellow developers and enthusiasts. Let's learn from each other! 🤓🚀
 
-- 📫 How to reach me **edinamukpabio@gmail.com**
+- 📫 How to reach me **edinamuk-pabio@gmail.com**
 
 - ⚡ Fun fact   **Did you know that I once coded an entire project in a coffee shop during a power outage, fueled by caffeine and the light of my laptop screen? ☕💻 It turned out to be one of my most productive coding sessions ever! Sometimes, creativity thrives in unexpected situations. 😄🚀 Feel free to use this or come up with your own fun fact that showcases your personality or unique experiences. It's a great way to break the ice and make your GitHub profile more memorable.**
 
@@ -41,6 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edinamukpabio&show_icons=true&locale=en&hide=prs,contribs&include_all_commits=true" alt="edinamukpabio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edinamuk-pabio&show_icons=true&locale=en&hide=prs,contribs&include_all_commits=true" alt="edinamuk-pabio" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinamukpabio&hide_border=true" alt="edinamukpabio" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinamuk-pabio&hide_border=true" alt="edinamuk-pabio" />
